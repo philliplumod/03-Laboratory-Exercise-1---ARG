@@ -1,0 +1,11 @@
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\CLAB1-15\Downloads\OrganizationProfile-master\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
